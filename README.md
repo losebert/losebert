@@ -1,9 +1,10 @@
-<h1> First </h1>
+<h1> First 
 
 <style> 
 
 h1 {
-  color:blue
+  color:blue;
 }
   
 </style>
+</h1>
