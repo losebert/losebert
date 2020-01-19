@@ -1,10 +1,14 @@
-<h1> First 
-
-<style> 
-
-h1 {
-  color:blue;
-}
-  
+<html>
+<head>
+<style>
+h1 {color:red;}
+p {color:blue;}
 </style>
-</h1>
+</head>
+<body>
+
+<h1>A heading</h1>
+<p>A paragraph.</p>
+
+</body>
+</html>
